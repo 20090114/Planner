@@ -19,7 +19,7 @@ Class: Wednesday             |Assignment
  Geometry: Mr. Inman         | None
  Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.
  English 9: Mrs. Bloomer     | None
- Civics/Econ: Mr. Carlson    | 
+ Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review
  Biology: Mrs. Fries         | Exam Today and Tomorrow
  
 Class: Thursday              |Assignment
@@ -27,7 +27,7 @@ Class: Thursday              |Assignment
  Geometry: Mr. Inman         | 
  Concert Band: Mr. Bharttari | Movie
  English 9: Mrs. Bloomer     | 
- Civics/Econ: Mr. Carlson    | 
+ Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review
  Biology: Mrs. Fries         | Exam Today
                              
 Class: Friday                |Assignment
