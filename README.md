@@ -1,2 +1,2 @@
-# planner
+# Planner
 Guided Studies Planner
