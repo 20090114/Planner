@@ -16,24 +16,24 @@ Class: Tuesday               |Assignment
  
 Class: Wednesday             |Assignment
 -----------------------------|------------------------------------------------------------
- Geometry: Mr. Inman         | 
+ Geometry: Mr. Inman         | None
  Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.
- English 9: Mrs. Bloomer     | 
+ English 9: Mrs. Bloomer     | None
  Civics/Econ: Mr. Carlson    | 
- Biology: Mrs. Fries         | 
+ Biology: Mrs. Fries         | Exam Today and Tomorrow
  
 Class: Thursday              |Assignment
 -----------------------------|------------------------------------------------------------
  Geometry: Mr. Inman         | 
- Concert Band: Mr. Bharttari | 
+ Concert Band: Mr. Bharttari | Movie
  English 9: Mrs. Bloomer     | 
  Civics/Econ: Mr. Carlson    | 
- Biology: Mrs. Fries         | 
+ Biology: Mrs. Fries         | Exam Today
                              
 Class: Friday                |Assignment
 -----------------------------|------------------------------------------------------------
  Geometry: Mr. Inman         | 
- Concert Band: Mr. Bharttari | 
+ Concert Band: Mr. Bharttari | Movie
  English 9: Mrs. Bloomer     | 
  Civics/Econ: Mr. Carlson    | 
- Biology: Mrs. Fries         | 
+ Biology: Mrs. Fries         | Movie
