@@ -1,0 +1,115 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: navy;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+h3 {
+  color: goldenrod;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+h4 {
+  color: darkgreen;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+h5 {
+  color: darkorange;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+h6 {
+  color: lavender;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+  border: 2px solid purple;
+}
+
+p {
+  color: lightgray;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+ul {
+  color: antiquewhite;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+ol {
+  color: firebrick;
+  height: auto;
+  width: auto;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+a:link {
+  color: lightblue;
+  background-color: goldenrod;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:visited {
+  color: purple;
+  background-color: lavender;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:hover {
+  color: darkblue;
+  background-color: skyblue;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:active {
+  color: blue;
+  background-color: navy;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
