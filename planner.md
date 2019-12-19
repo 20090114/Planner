@@ -32,7 +32,7 @@ Class: Thursday              |Assignment
                              
 Class: Friday                |Assignment
 -----------------------------|------------------------------------------------------------
- Geometry: Mr. Inman         | 
+ Geometry: Mr. Inman         | Lesson 9-5 Notes due Jan 6 2020
  Concert Band: Mr. Bharttari | Movie
  English 9: Mrs. Bloomer     | 
  Civics/Econ: Mr. Carlson    | 
