@@ -24,7 +24,7 @@ Class: Wednesday             |Assignment
  
 Class: Thursday              |Assignment
 -----------------------------|------------------------------------------------------------
- Geometry: Mr. Inman         | 
+ Geometry: Mr. Inman         | Lesson 9-5 notes due tommorow
  Concert Band: Mr. Bharttari | Movie
  English 9: Mrs. Bloomer     | 
  Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review
