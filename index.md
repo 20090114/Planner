@@ -1,5 +1,5 @@
-|Planner                                                                                   |
-|------------------------------------------------------------------------------------------|
+|Class                        |Assignment                                                  |
+|-----------------------------|------------------------------------------------------------|
 |**Class: Monday**            |**Assignment**                                              |
 | Geometry: Mr. Inman         | 8-3 Notes due tommorow                                     |
 | Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.                        |
