@@ -34,6 +34,6 @@ Class: Friday                |Assignment
 -----------------------------|------------------------------------------------------------
  Geometry: Mr. Inman         | Lesson 9-5 Notes and 9-5 worksheet due Jan 6 2020
  Concert Band: Mr. Bharttari | Movie
- English 9: Mrs. Bloomer     | Oddysey Movie Sheet
+ English 9: Mrs. Bloomer     | None
  Civics/Econ: Mr. Carlson    | Enjoy the Holidays!
  Biology: Mrs. Fries         | Movie
